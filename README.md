@@ -69,7 +69,6 @@
 - 🇰🇪 Local Impact: Projects like Kenya Online School System.
 - ⚡ Innovation Drive: Blockchain games, AI tools, security microservices.
 
-Perfect for roles in: 🚀 Startups | ⛓️ Web3 | 🤖 AI | ☁️ DevOps
 Let's connect and create! 💻✨
 
 ---
