@@ -1,6 +1,5 @@
 ---
 
-### 👨💻 Godfrey | Software Engineer from Kenya
 
 **🎓 Education**: First Class Honours in Computer Science, Moi University
 
