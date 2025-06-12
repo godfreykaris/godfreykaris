@@ -4,7 +4,7 @@
 
 **🌟 Expertise**:
 - 📱 Mobile: Kotlin, Java, React Native
-- 🌐 Web: React, Svelte, Laravel, Flask
+- 🌐 Web: React, Svelte, Laravel, Flask, Python
 - 💻 Desktop: C++, Python
 - 🤖 AI: Python, LangChain
 - 🧩 Microservices: Docker
