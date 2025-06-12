@@ -30,11 +30,7 @@ I’m a passionate software engineer from Kenya, holding a **First Class Honours
 - **Mentorship Programs**: Initiatives to teach coding to students, especially in underserved communities.
 
 ## 📬 How to Reach Me
-
-- **Email**: godfreykaris@example.com
-- **X**: @godfreykaris
-- **LinkedIn**: godfrey-karis
-- **Upwork**: godfrey-karis
+- **Upwork**: https://www.upwork.com/freelancers/~013e8c6637ebfe382b?mp_source=share
 
 ## 😄 Pronouns
 
