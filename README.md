@@ -1,4 +1,4 @@
-### 👨💻 Godfrey | Software Engineer from Kenya 🇰🇪
+### 👨💻 Godfrey | Software Engineer from Nairobi, Kenya 
 
 **🎓 Education**: First Class Honours in Computer Science, Moi University
 
@@ -32,8 +32,6 @@
 
 **📬 Contact**: [Upwork](https://www.upwork.com/freelancers/~013e8c6637ebfe382b?mp_source=share)
 
-**ℹ️ Pronouns**: He/Him
-
 **🎉 Fun Facts**:
 - ♟️ Chess enthusiast (Moi University Chess Club)
 - 🚀 Sci-fi lover
@@ -43,7 +41,7 @@
 **🛠️ Tech Stack**:
 - ⌨️ Languages: Kotlin, Java, C++, Python, JavaScript, PHP
 - 🖇️ Frameworks: React, Laravel, Flask, Svelte
-- 🗃️ Databases: PostgreSQL, MongoDB
+- 🗃️ Databases: PostgreSQL, MongoDB, MySQL
 - 🧰 Tools: Docker, Git, Ethereum
 
 **✨ Featured Projects**:
